@@ -50,7 +50,7 @@ var (
 		"haji", "hajim", "her highness", "her majesty", "herr", "high chief",
 		"his highness", "his holiness", "his majesty", "hon", "hr", "hra", "ing", "ir",
 		"jonkheer", "judge", "justice", "khun ying", "kolonel", "lady", "lcda", "lic",
-		"lieut", "lieut cdr", "lieut col", "lieut gen", "lord", "m", "m l", "m r",
+		"lieut", "lieut cdr", "lieut col", "lieut gen", "lord", "m l", "m r",
 		"madame", "mademoiselle", "maj gen", "major", "master", "mevrouw", "miss",
 		"mlle", "mme", "monsieur", "monsignor", "mstr", "nti", "pastor",
 		"president", "prince", "princess", "princesse", "prinses", "prof",
